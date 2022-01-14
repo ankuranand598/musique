@@ -2,7 +2,7 @@ import { Link } from "react-router-dom";
 function Navbar() {
   return (
     <>
-      <div className="row">
+      <div className="row " style={{ background: "silver", height: "10vh" }}>
         <div className="col">
           <Link to="/">Home</Link>
         </div>
