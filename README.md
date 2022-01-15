@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Before starting please get the server link form here:[musiqueServer](https://github.com/ankuranand598/musiqueServer).
+
 ## Available Scripts
 
 In the project directory, you can run:
