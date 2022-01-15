@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+I have created two repos(client and server) to make my app, though i am submitting only one thats why i am providing ther servers link here
 
 # Before starting please get the server link form here:[musiqueServer](https://github.com/ankuranand598/musiqueServer).
 
