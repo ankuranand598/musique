@@ -39,7 +39,7 @@ function Navbar() {
       ) : (
         <div className="row " style={{ background: "silver", height: "10vh" }}>
           <div className="col">
-            <Link to="/">Home</Link>
+            <Link to="/page/:p">Home</Link>
           </div>
           <div className="col">
             <Link to="/login">login</Link>

@@ -14,7 +14,10 @@ function App() {
     <div className="App">
       <Navbar />
       <Switch>
-        <Route path="/" exact>
+        {/* <Route path="/" exact>
+          <Home />
+        </Route> */}
+        <Route path="/page/:p">
           <Home />
         </Route>
         <Route path="/profile" exact>
@@ -29,7 +32,6 @@ function App() {
         <Route path="/Artist/dashboard">
           <Artistdash />
         </Route>
-
         <Route path="/edit/album/songs/:id">
           <SongEdit />
         </Route>
